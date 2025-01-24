@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vysakhvg1&label=Profile%20views&color=0e75b6&style=flat" alt="vysakhvg1" /> </p>
 
-- 🔭 🔭 I’m currently working on **Marine Genomics and Transcriptomics projects, focusing on uncovering genetic mechanisms that shape marine biodiversity.**
+- 🔭 I’m currently working on **Marine Genomics and Transcriptomics projects, focusing on uncovering genetic mechanisms that shape marine biodiversity.**
 
 - 🌱 I’m currently learning **Python for bioinformatics. Diving deeper into data analysis tools and coding languages to enhance my computational skills.**
 
 - 👯 I’m looking to collaborate on **Marine Genomics, Transcriptomics, and Bioinformatics projects. Feel free to connect if you’re working on any related topics!**
 
-- 🤝 I’m looking for help with **Spatial and single cell transcriptomics**
+- 🤝 I’m looking for help with **Spatial and single-cell transcriptomics**
 
 - 💬 Ask me about **Marine genomics, genome assembly, and transcriptomic data analysis in non-model organisms.**
 
@@ -21,6 +21,34 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
+</a>
+<a href="https://blast.ncbi.nlm.nih.gov/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Ncbi-logo.svg" alt="blast" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+</a>
+<a href="https://www.bioconductor.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://bioconductor.org/images/bioconductor-logo.svg" alt="bioconductor" width="40" height="40"/> 
+</a>
+<a href="https://www.illumina.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Illumina_logo.svg/800px-Illumina_logo.svg.png" alt="illumina" width="40" height="40"/> 
+</a>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vysakhvg1&show_icons=true&locale=en&layout=compact" alt="vysakhvg1" /></p>
