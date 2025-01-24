@@ -1,47 +1,43 @@
-<h1 align="center">Hi 👋, I'm Vysakh V G</h1>
-<h3 align="center">A passionate Biologist from India</h3>
+<h2 align="left">  
+ <abc>  
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>  
+  <br> I'm Vysakh V G, a PhD Scholar, Genomics and Transcriptomics Enthusiast :dna:<br>  
+  <br>  
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Bioinformatics GIF" width="500">  
+ </abc>  
+</h2>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vysakhvg1&label=Profile%20views&color=0e75b6&style=flat" alt="vysakhvg1" /> </p>
+<h2 align="left">🛠️ Technologies and Tools I Use:</h2>  
+<p align="left">  
+    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>  
+    <a href="https://python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>   
+    <a href="https://www.bioconductor.org/" target="_blank"><img src="https://bioconductor.org/images/logo/svg/Logo.svg" width="100" height="40"/></a>   
+    <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/></a>  
+    <a href="https://www.ncbi.nlm.nih.gov/tools/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/07/US-NLM-NCBI-Logo.svg" alt="NCBI Tools" width="40" height="40"/></a>  
+</p>  
 
-- 🔭 I’m currently working on **Marine Genomics and Transcriptomics projects, focusing on uncovering genetic mechanisms that shape marine biodiversity.**
+<h2 align="left">👨🏻‍💻 About Me:</h2>  
+- 🔬 Research Focus: Genomics, Transcriptomics, and De Novo Assembly  
+- :computer: Expertise in bioinformatics and data analysis pipelines for non-model organisms  
+- 🌿 Exploring molecular mechanisms of invasive species using advanced bioinformatics  
+- 📊 Developing skills in Python and Linux for data processing  
+- 🔬 Advocate for integrating computational tools into marine biology research  
 
-- 🌱 I’m currently learning **Python for bioinformatics. Diving deeper into data analysis tools and coding languages to enhance my computational skills.**
+---
 
-- 👯 I’m looking to collaborate on **Marine Genomics, Transcriptomics, and Bioinformatics projects. Feel free to connect if you’re working on any related topics!**
+### 🌟 **Current Projects**
+- 🌱 **De novo Genome and Transcriptome Assembly**: Exploring molecular mechanisms of adaptive success in bivalves.
+- 📊 **Differential Gene Expression Analysis**: Investigating expression patterns under environmental stress amd pathogenic conditions.
+- 🧬 **Gene Family Characterization**: Functional insights into key gene families in marine organisms.
 
-- 🤝 I’m looking for help with **Spatial and single-cell transcriptomics**
+---
 
-- 💬 Ask me about **Marine genomics, genome assembly, and transcriptomic data analysis in non-model organisms.**
+<h2 align="left">📚 My Academic Links:</h2>  
+- 🌐 ORCID: [0009-0000-4948-5019](https://orcid.org/0009-0000-4948-5019)  
+- 💼 LinkedIn: [linkedin.com/in/vysakhvg](https://linkedin.com/in/vysakhvg)  
+- 📖 ResearchGate: [ResearchGate](https://www.researchgate.net)  
+- :octocat: GitHub: [VysakhVG1](https://github.com/VysakhVG1)  
 
-- 📫 How to reach me **vishakvg99@gmail.com, vysakhvg@mgu.ac.in**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/vysakhvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vysakhvg" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
-
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-
-</a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vysakhvg1&show_icons=true&locale=en&layout=compact" alt="vysakhvg1" /></p>
+<h2 align="left">📬 Contact Me:</h2>  
+- 📱 Phone: +91 9539431385  
+- 📧 Email: [vysakhvg@mgu.ac.in](mailto:vysakhvg@mgu.ac.in)  
