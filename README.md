@@ -33,9 +33,7 @@
 </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
-</a>
-<a href="https://blast.ncbi.nlm.nih.gov/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Ncbi-logo.svg" alt="blast" width="40" height="40"/>
+
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
