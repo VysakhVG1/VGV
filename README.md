@@ -40,12 +40,7 @@
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-</a>
-<a href="https://www.bioconductor.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://bioconductor.org/images/bioconductor-logo.svg" alt="bioconductor" width="40" height="40"/> 
-</a>
-<a href="https://www.illumina.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Illumina_logo.svg/800px-Illumina_logo.svg.png" alt="illumina" width="40" height="40"/> 
+
 </a>
 </p>
 
