@@ -40,4 +40,4 @@
 
 <h2 align="left">📬 Contact Me:</h2>  
 - 📱 Phone: +91 9539431385  
-- 📧 Email: [vysakhvg@mgu.ac.in](mailto:vysakhvg@mgu.ac.in)  
+- 📧 Email: [vysakhvg@mgu.ac.in][vysakhvg@mgu.ac.in)  
