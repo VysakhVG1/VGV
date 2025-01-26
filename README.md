@@ -35,7 +35,8 @@
 ---
 
 ###  **Publications**
-- **Evaluating the effects of zinc oxide nanoparticles on a sentinel aquatic invertebrate species: Transcriptomic analysis and potential implications for ecosystem health**[https://doi.org/10.1016/j.marpolbul.2025.117570]
+- **De novo transcriptome assembly of the _Perna viridis_:a novel invertebrate model for ecotoxicological studies** [https://doi.org/10.1038/s41597-025-04496-w]
+- **Evaluating the effects of zinc oxide nanoparticles on a sentinel aquatic invertebrate species: Transcriptomic analysis and potential implications for ecosystem health** [https://doi.org/10.1016/j.marpolbul.2025.117570]
 - **The sequence and de novo assembly of the genome of the Indian oil sardine, Sardinella longiceps** [https://www.nature.com/articles/s41597-023-02481-9]
 - **De novo transcriptome analysis of the Indian squid Uroteuthis duvaucelii (Orbigny, 1848) from the Indian Ocean** [https://www.nature.com/articles/s41597-024-04112-3]
 - **The chromosome level genome assembly of the Asian green mussel, _Perna viridis_** [https://www.nature.com/articles/s41597-024-03802-2]
